@@ -1,0 +1,63 @@
+{
+    "DT_FieldLotteryNameDataTable": {
+        "Expedition_Grass": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+
+        "Expedition_Forest": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+
+        "Expedition_Volcano": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+
+        "Expedition_Desert": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        "Expedition_Snow": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        "Expedition_Sakurajima": {
+            "ItemSlot14_ProbabilityPercent": 5.0,
+            "ItemSlot15_ProbabilityPercent": 5.0
+        },
+        "Expedition_DarkIsland": {
+            "ItemSlot14_ProbabilityPercent": 3.0,
+            "ItemSlot15_ProbabilityPercent": 3.0
+        },
+        "Expedition_Grass_Hard": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        "Expedition_Forest_Hard": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        "Expedition_Desert_Hard": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        "Expedition_Volcano_Hard": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        "Expedition_Snow_Hard": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        "Expedition_Sakurajima_Hard": {
+            "ItemSlot14_ProbabilityPercent": 10.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        "Expedition_DarkIsland_Hard": {
+            "ItemSlot14_ProbabilityPercent": 3.0,
+            "ItemSlot15_ProbabilityPercent": 3.0
+        }
+    }
+}
