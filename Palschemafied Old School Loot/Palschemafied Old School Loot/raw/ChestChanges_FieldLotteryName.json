@@ -1,0 +1,66 @@
+{
+    "DT_FieldLotteryNameDataTable": {
+        "Grass02": {
+            "ItemSlot4_ProbabilityPercent": 0.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+        
+        "Forest02": {
+            "ItemSlot4_ProbabilityPercent": 0.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+
+        "Desert02": {
+            "ItemSlot4_ProbabilityPercent": 0.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+
+        "Volcano02": {
+            "ItemSlot4_ProbabilityPercent": 0.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+
+        "Snow02": {
+            "ItemSlot4_ProbabilityPercent": 0.0,
+            "ItemSlot15_ProbabilityPercent": 10.0
+        },
+
+        "Sakurajima02": {
+            "ItemSlot4_ProbabilityPercent": 0.0,
+            "ItemSlot15_ProbabilityPercent": 5.0
+        },
+
+        "DarkIsland02": {
+            "ItemSlot4_ProbabilityPercent": 0.0,
+            "ItemSlot15_ProbabilityPercent": 3.0
+        },
+
+        "Grass_Supply": {
+            "ItemSlot6_ProbabilityPercent": 10.0
+        },
+        
+        "Forest_Supply": {
+            "ItemSlot6_ProbabilityPercent": 10.0
+        },
+
+        "Desert_Supply": {
+            "ItemSlot6_ProbabilityPercent": 10.0
+        },
+
+        "Volcano_Supply": {
+            "ItemSlot6_ProbabilityPercent": 10.0
+        },
+
+        "Snow_Supply": {
+            "ItemSlot6_ProbabilityPercent": 10.0
+        },
+
+        "Sakurajima_Supply": {
+            "ItemSlot6_ProbabilityPercent": 10.0
+        },
+
+        "DarkIsland_Supply": {
+            "ItemSlot6_ProbabilityPercent": 10.0
+        }
+    }
+}
