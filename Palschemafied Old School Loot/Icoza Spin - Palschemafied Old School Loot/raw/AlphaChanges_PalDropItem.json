@@ -216,7 +216,7 @@
 
         "BOSS_WeaselDragon000": {
             "ItemId2": "Cloth",
-            "Rate2": 3.0,
+            "Rate2": 100.0,
             "min2": 2,
             "Max2": 3
         },
