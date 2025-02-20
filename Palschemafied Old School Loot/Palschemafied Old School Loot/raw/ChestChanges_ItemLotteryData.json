@@ -44,22 +44,56 @@
             "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
         },
 
-        "2133": {
-            "SlotNo": 2,
-            "WeightInSlot": 60.0,
+        "2136": {
             "MinNum": 11
         },
 
-        "2143": {
-            "SlotNo": 2,
-            "WeightInSlot": 60.0,
+        "2137": {
+            "SlotNo": 4
+        },
+
+        "2138": {
+            "SlotNo": 4
+        },
+
+        "2139": {
+            "SlotNo": 4
+        },
+
+        "2149": {
             "MinNum": 11
         },
 
-        "2153": {
-            "SlotNo": 2,
-            "WeightInSlot": 60.0,
+        "2150": {
+            "SlotNo": 4
+        },
+
+        "2151": {
+            "SlotNo": 4
+        },
+
+        "2152": {
+            "SlotNo": 4
+        },
+
+        "2162": {
             "MinNum": 11
+        },
+
+        "2163": {
+            "SlotNo": 4
+        },
+
+        "2164": {
+            "SlotNo": 4
+        },
+
+        "2165": {
+            "SlotNo": 4
+        },
+
+        "2166": {
+            "SlotNo": 4
         },
 
         "OSL_Desert02_1": {
@@ -84,25 +118,59 @@
             "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
         },
 
-        "2167": {
-            "SlotNo": 2,
-            "WeightInSlot": 35,
+        "2180": {
             "MinNum": 16,
             "MaxNum": 20
         },
 
-        "2179": {
-            "SlotNo": 2,
-            "WeightInSlot": 35.0,
+        "2181": {
+            "SlotNo": 4
+        },
+
+        "2182": {
+            "SlotNo": 4
+        },
+
+        "2183": {
+            "SlotNo": 4
+        },
+
+        "2195": {
             "MinNum": 16,
             "MaxNum": 20
         },
 
-        "2190": {
-            "SlotNo": 2,
-            "WeightInSlot": 35.0,
+        "2196": {
+            "SlotNo": 4
+        },
+
+        "2197": {
+            "SlotNo": 4
+        },
+
+        "2198": {
+            "SlotNo": 4
+        },
+
+        "2209": {
             "MinNum": 16,
             "MaxNum": 20
+        },
+
+        "2210": {
+            "SlotNo": 4
+        },
+
+        "2211": {
+            "SlotNo": 4
+        },
+
+        "2212": {
+            "SlotNo": 4
+        },
+
+        "2213": {
+            "SlotNo": 4
         },
 
         "OSL_Volcano02_1": {
@@ -160,25 +228,61 @@
             "TreasureBoxGrade": "EPalMapObjectTreasureGradeType::Grade1"
         },
 
-        "2204": {
-            "SlotNo": 2,
-            "WeightInSlot": 30.0,
-            "MinNum": 26,
-            "MaxNum": 30
-        },
-
-        "2216": {
-            "SlotNo": 2,
-            "WeightInSlot": 30,
-            "MinNum": 26,
-            "MaxNum": 30
-        },
-
         "2227": {
+            "MinNum": 26,
+            "MaxNum": 30
+        },
+
+        "2228": {
+            "SlotNo": 4
+        },
+
+        "2229": {
+            "SlotNo": 4
+        },
+
+        "2230": {
+            "SlotNo": 4
+        },
+
+        "2242": {
+            "MinNum": 26,
+            "MaxNum": 30
+        },
+
+        "2243": {
+            "SlotNo": 4
+        },
+
+        "2244": {
+            "SlotNo": 4
+        },
+
+        "2245": {
+            "SlotNo": 4
+        },
+
+        "2256": {
             "SlotNo": 2,
             "WeightInSlot": 30.0,
             "MinNum": 26,
             "MaxNum": 30
+        },
+
+        "2257": {
+            "SlotNo": 4
+        },
+
+        "2258": {
+            "SlotNo": 4
+        },
+
+        "2259": {
+            "SlotNo": 4
+        },
+
+        "2260": {
+            "SlotNo": 4
         },
 
         "OSL_DarkIsland02_1": {

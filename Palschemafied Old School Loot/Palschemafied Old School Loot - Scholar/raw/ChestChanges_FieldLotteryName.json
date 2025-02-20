@@ -61,6 +61,51 @@
 
         "DarkIsland_Supply": {
             "ItemSlot6_ProbabilityPercent": 20.0
+        },
+
+        "Forest_ElectricTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
+        },
+
+        "Forest_FireTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
+        },
+
+        "Forest_WaterTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
+        },
+
+        "Desert_ElectricTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
+        },
+
+        "Desert_FireTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
+        },
+
+        "Desert_WaterTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
+        },
+
+        "Sakurajima_ElectricTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
+        },
+
+        "Sakurajima_FireTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
+        },
+
+        "Sakurajima_WaterTreasure": {
+            "ItemSlot3_ProbabilityPercent": 100.0,
+            "ItemSlot4_ProbabilityPercent": 10.0
         }
     }
 }
